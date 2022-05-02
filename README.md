@@ -1,7 +1,6 @@
-# Social Network API
-
+# Social Network Api
+  
   ![license](https://img.shields.io/badge/license-MIT-blue)
-
   ***
   ## Table of Contents
   - [Description](#description)
@@ -12,36 +11,29 @@
   - [Contribution](#contribution)
   - [Testing](#testing)
   - [Additional Info](#additional-info)
-
   ***
   ## Description
-   Many social networking platforms are founded on enormous amount of data and it's important to understand how to build and structure these APIs. Likewise, this application generates an API for a social network web application, where users can share their thoughts, react to friends' thoughts, and create a friend list. It uses Express.js for routing, a MongoDB database, and the Mongoose ODM.
-
+  This app has no front end but you are able to post, react an add users just like a social media website. You are also able to add friends. I mostly used insomnia to showcase the app.
   ***
   ## Technologies Used
   MongoDB, Express, and Nodemon
-
   ***
   ## Visual Presentation
-  Youtube Video (https://youtu.be/09C7oW8-g-4)
-
+  N/a
   ***
   ## Installation
-  Install the necessary dependencies, then run nodemon
-
+  Download or clone the repo, npm i for the packages. Run nodemon to start the server.
   ***
   ## Usage
-  Backend API for a social media app using MongoDB
-
+  Social media app
   ***
   ## Contribution
-  Any can contribute.
-
+  N/a
   ***
   ## Testing
   N/a
-
   ***
   ## Additional Info
-  - Github: TabuHana(https://github.com/TabuHana)
-  - Email: nate31196@outlook.com
+  - Executable: N/a
+  - Github: Ahrionic(https://github.com/Ahrionic)
+  - Email: koreyluu@gmail.com
